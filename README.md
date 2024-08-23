@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange" alt="Java"/> ☕
+ <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange" alt="Java"/>
+
 </p>
 
 ---
