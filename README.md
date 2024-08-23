@@ -1,29 +1,87 @@
-# Olá! Eu sou [Seu Nome] 👋
+<h1 align="center">Olá, Eu sou [Seu Nome] 👋</h1>
 
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará alguns dos meus projetos e contribuições.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/XXXXXX/YOUR-GIF.gif" alt="gif" width="200"/>
+</p>
 
----
-
-### 🚀 Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia e sempre aprendendo algo novo!
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Minhas Tecnologias e Ferramentas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker"/>
+</p>
 
 ---
 
-### 💼 Conecte-se Comigo
+## 🌱 Atualmente Estou Aprendendo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu_usuario)
+- 🔭 Estou explorando o mundo de **Inteligência Artificial e Machine Learning**.
+- 🌱 Aprimorando minhas habilidades com **DevOps** e **Kubernetes**.
+- 💬 Pergunte-me sobre **Desenvolvimento Web** e **Automação**.
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+</div>
+
+---
+
+## 🚀 Meus Projetos Destacados
+
+- [**Projeto 1**](https://github.com/seuusuario/projeto1) - Uma descrição rápida do projeto.
+- [**Projeto 2**](https://github.com/seuusuario/projeto2) - Uma descrição rápida do projeto.
+- [**Projeto 3**](https://github.com/seuusuario/projeto3) - Uma descrição rápida do projeto.
+
+---
+
+## 📫 Como Me Encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seu_usuario/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/seu_usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:seu.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Um Pouco Mais Sobre Mim
+
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "[Seu Nome]"
+        self.local = "Brasil"
+        self.linguagens_favoritas = ["Python", "JavaScript", "C++"]
+        self.hobbies = ["Música", "Gaming", "Viajar"]
+    
+    def saudacao(self):
+        print("Obrigado por visitar meu perfil no GitHub!")
+
+me = Desenvolvedor()
+me.saudacao()
