@@ -51,7 +51,7 @@
 ## 📫 Como Me Encontrar
 
 <p align="center">
-  <a href="https://www.instagram.com/lbd_code.fc/?next=%2F">
+  <a href="https://www.instagram.com/lbd_code.fc/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/seu_usuario/">
