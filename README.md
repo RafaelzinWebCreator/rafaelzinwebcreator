@@ -17,11 +17,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=yellow" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange" alt="Java"/>
 </p>
 
