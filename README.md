@@ -44,4 +44,41 @@
 
 - [**Projeto 1**](https://github.com/seuusuario/projeto1) - Uma descrição rápida do projeto.
 - [**Projeto 2**](https://github.com/seuusuario/projeto2) - Uma descrição rápida do projeto.
-- [**Projeto 3**](https://github.com/seuusuario/projeto3) - U
+- [**Projeto 3**](https://github.com/seuusuario/projeto3) - Uma descrição rápida do projeto.
+
+---
+
+## 📫 Como Me Encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seu_usuario/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/seu_usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:seu.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Um Pouco Mais Sobre Mim
+
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "[Seu Nome]"
+        self.local = "Brasil"
+        self.linguagens_favoritas = ["Python", "JavaScript", "Java"]
+        self.hobbies = ["Música", "Gaming", "Viajar"]
+    
+    def saudacao(self):
+        print("Obrigado por visitar meu perfil no GitHub!")
+
+me = Desenvolvedor()
+me.saudacao()
